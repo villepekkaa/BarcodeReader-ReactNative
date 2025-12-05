@@ -14,8 +14,7 @@ This repository contains a solution for a weekly assignment 6 in the course "Web
 ## Tech Stack
 
 - **React Native** with TypeScript
-- **Expo** (expo-camera)
-- **Expo Camera** for barcode scanning
+- **Expo** with expo-camera for barcode scanning
 
 ## Installation
 
